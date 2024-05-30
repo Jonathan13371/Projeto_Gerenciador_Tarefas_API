@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jXNuxX59GX4PnheqMFyiOYPAcNkPe3xFEHxHx622wmM=",
+  "Source": "API_Gerenciador_de_tarefas",
+  "BasePath": "_content/API_Gerenciador_de_tarefas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
