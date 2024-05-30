@@ -25,5 +25,7 @@ Esta API permite realizar operações de CRUD (Criar, Ler, Atualizar, Deletar) e
 ### Tecnologias Utilizadas
 - C#
 - ASP.NET Core
-- SQL Server
+- MySQL 
+- SQL Workbench
+
 
